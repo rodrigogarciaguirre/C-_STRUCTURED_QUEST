@@ -1,0 +1,14 @@
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/Ejercicio_Practica_Ca.GeneratedMSBuildEditorConfig.editorconfig
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/Ejercicio_Practica_Ca.AssemblyInfoInputs.cache
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/Ejercicio_Practica_Ca.AssemblyInfo.cs
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/Ejercicio_Practica_Ca.csproj.CoreCompileInputs.cache
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/bin/Debug/net10.0/Ejercicio_Practica_Ca
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/bin/Debug/net10.0/Ejercicio_Practica_Ca.deps.json
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/bin/Debug/net10.0/Ejercicio_Practica_Ca.runtimeconfig.json
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/bin/Debug/net10.0/Ejercicio_Practica_Ca.dll
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/bin/Debug/net10.0/Ejercicio_Practica_Ca.pdb
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/Ejercicio_Practica_Ca.dll
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/refint/Ejercicio_Practica_Ca.dll
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/Ejercicio_Practica_Ca.pdb
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/Ejercicio_Practica_Ca.genruntimeconfig.cache
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/ref/Ejercicio_Practica_Ca.dll
