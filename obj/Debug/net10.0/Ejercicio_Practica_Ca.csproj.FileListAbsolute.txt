@@ -12,3 +12,4 @@
 /home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/Ejercicio_Practica_Ca.pdb
 /home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/Ejercicio_Practica_Ca.genruntimeconfig.cache
 /home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/ref/Ejercicio_Practica_Ca.dll
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/obj/Debug/net10.0/Ejercicio_Practica_Ca.sourcelink.json
