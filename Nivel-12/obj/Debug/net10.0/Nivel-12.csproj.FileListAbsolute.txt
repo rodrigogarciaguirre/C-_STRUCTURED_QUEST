@@ -1,0 +1,15 @@
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/bin/Debug/net10.0/Nivel-12
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/bin/Debug/net10.0/Nivel-12.deps.json
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/bin/Debug/net10.0/Nivel-12.runtimeconfig.json
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/bin/Debug/net10.0/Nivel-12.dll
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/bin/Debug/net10.0/Nivel-12.pdb
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/obj/Debug/net10.0/Nivel-12.GeneratedMSBuildEditorConfig.editorconfig
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/obj/Debug/net10.0/Nivel-12.AssemblyInfoInputs.cache
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/obj/Debug/net10.0/Nivel-12.AssemblyInfo.cs
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/obj/Debug/net10.0/Nivel-12.csproj.CoreCompileInputs.cache
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/obj/Debug/net10.0/Nivel-12.sourcelink.json
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/obj/Debug/net10.0/Nivel-12.dll
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/obj/Debug/net10.0/refint/Nivel-12.dll
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/obj/Debug/net10.0/Nivel-12.pdb
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/obj/Debug/net10.0/Nivel-12.genruntimeconfig.cache
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-12/obj/Debug/net10.0/ref/Nivel-12.dll
