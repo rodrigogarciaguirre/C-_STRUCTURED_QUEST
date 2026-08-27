@@ -11,7 +11,7 @@ class Program
         Console.WriteLine("Escriba el nivel de alerta en una escala de [1-10]:   ");
         while(!int.TryParse(Console.ReadLine(), out nivel_alerta)|| nivel_alerta < 0 || nivel_alerta > 10)
         {
-            Console.WriteLine("[ERROR]: El valor es invalido.");
+            Console.WriteLine("[ERROR]: NIVEL DE ALERTA INVÁLIDO");
             Console.WriteLine("Escriba de nuevo el nivel de alerta:   ");
         }
 
