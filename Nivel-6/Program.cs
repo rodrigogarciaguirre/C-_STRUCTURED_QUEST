@@ -62,6 +62,7 @@ namespace Nivel_6
                     }
                 }
             } while(!esvalido);
+            
             Console.Clear();
             if (login)
             {
