@@ -1,0 +1,15 @@
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/bin/Debug/net10.0/Nivel-8
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/bin/Debug/net10.0/Nivel-8.deps.json
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/bin/Debug/net10.0/Nivel-8.runtimeconfig.json
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/bin/Debug/net10.0/Nivel-8.dll
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/bin/Debug/net10.0/Nivel-8.pdb
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/obj/Debug/net10.0/Nivel-8.GeneratedMSBuildEditorConfig.editorconfig
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/obj/Debug/net10.0/Nivel-8.AssemblyInfoInputs.cache
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/obj/Debug/net10.0/Nivel-8.AssemblyInfo.cs
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/obj/Debug/net10.0/Nivel-8.csproj.CoreCompileInputs.cache
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/obj/Debug/net10.0/Nivel-8.sourcelink.json
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/obj/Debug/net10.0/Nivel-8.dll
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/obj/Debug/net10.0/refint/Nivel-8.dll
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/obj/Debug/net10.0/Nivel-8.pdb
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/obj/Debug/net10.0/Nivel-8.genruntimeconfig.cache
+/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-8/obj/Debug/net10.0/ref/Nivel-8.dll
