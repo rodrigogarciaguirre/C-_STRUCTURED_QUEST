@@ -8,24 +8,26 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/home/nino/.nuget/packages/": {}
+    "C:\\Users\\Laptop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-3/Nivel-3.csproj",
+      "projectUniqueName": "C:\\Users\\Laptop\\source\\repos\\Nivel-14\\C-_STRUCTURED_QUEST\\Nivel-3\\Nivel-3.csproj",
       "projectName": "Nivel-3",
-      "projectPath": "/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-3/Nivel-3.csproj",
-      "packagesPath": "/home/nino/.nuget/packages/",
-      "outputPath": "/home/nino/Projects/C#/Ejercicio_Practica_Ca/Nivel-3/obj/",
+      "projectPath": "C:\\Users\\Laptop\\source\\repos\\Nivel-14\\C-_STRUCTURED_QUEST\\Nivel-3\\Nivel-3.csproj",
+      "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Laptop\\source\\repos\\Nivel-14\\C-_STRUCTURED_QUEST\\Nivel-3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/nino/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +47,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net10.0": {
@@ -67,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/nino/.local/share/mise/dotnet-root/sdk/10.0.301/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
